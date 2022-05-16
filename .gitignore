@@ -13,3 +13,5 @@
 /LoggerService/obj
 /Repository/bin/Debug/net6.0
 /Repository/obj
+/Service/obj
+/Service.Contracts/obj
