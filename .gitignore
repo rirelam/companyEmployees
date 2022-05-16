@@ -1,0 +1,15 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/CompanyEmployees/bin/Debug/net6.0
+/.vs/CompanyEmployees
+/CompanyEmployees/obj
+/Contracts/bin/Debug/net6.0
+/Contracts/obj
+/Entities/bin/Debug/net6.0
+/Entities/obj
+/LoggerService/bin/Debug/net6.0
+/LoggerService/obj
+/Repository/bin/Debug/net6.0
+/Repository/obj
