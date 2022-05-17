@@ -15,3 +15,7 @@
 /Repository/obj
 /Service/obj
 /Service.Contracts/obj
+/CompanyEmployees.Presentation/bin/Debug/net6.0
+/CompanyEmployees.Presentation/obj
+/Service/bin/Debug/net6.0
+/Service.Contracts/bin/Debug/net6.0
