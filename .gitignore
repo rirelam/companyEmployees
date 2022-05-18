@@ -21,3 +21,5 @@
 /Service.Contracts/bin/Debug/net6.0
 /Shared/bin/Debug/net6.0
 /Shared/obj
+/internal_logs
+/.vs
