@@ -19,3 +19,5 @@
 /CompanyEmployees.Presentation/obj
 /Service/bin/Debug/net6.0
 /Service.Contracts/bin/Debug/net6.0
+/Shared/bin/Debug/net6.0
+/Shared/obj
